@@ -14,6 +14,8 @@ utterance = a word
 For this interview, you'll be building a SPA of that displays transcript data fetched from an api endpoint, and allows the user to perform a simple search function on. This can be done on the JS/TS framework of your choice. 
 We've built a template using React and Svelt to help you get started quickly.
 
+Here are the tasks you'll be completing:
+
 **Fetch the transcript information:**
 
 Fetch the transcript from the following endpoint : https://fullstack-transcript-interview-api-26940969056.us-central1.run.app
