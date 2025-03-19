@@ -11,6 +11,8 @@ utterance = a word
 
 ### Instructions
 
+For this interview, you'll be building a SPA of that displays transcript data fetched from an api endpoint, and allows the user to perform a simple search function on. This can be done on the JS/TS framework of your choice. 
+We've built a template using React and Svelt to help you get started quickly.
 
 **Fetch the transcript information:**
 
