@@ -10,6 +10,13 @@ transcript = the transcribed audio recording
 utterance = a word
 
 ### Instructions
+
+
+**Fetch the transcript information:**
+
+Fetch the transcript from the following endpoint : https://fullstack-transcript-interview-api-26940969056.us-central1.run.app
+
+
 **Render the transcript meaningfully:**
 
 Render the transcript with meaningful utterances from the data provided.
