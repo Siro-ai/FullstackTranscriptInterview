@@ -24,8 +24,6 @@ Fetch the transcript from the following endpoint : https://fullstack-transcript-
 **Render the transcript meaningfully:**
 
 Render the transcript with meaningful utterances from the data provided.
-At the start of the transcript and after each line_break utterance, you should render a timestamp to indicate that a new speech block is beginning.
-Create the notion of an "active" position in the transcript. If you click an utterance of the transcript, this part of the transcript should be highlighted.
 
 **Create an utterance search based on timestamp:**
 
