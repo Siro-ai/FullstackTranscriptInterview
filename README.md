@@ -30,7 +30,7 @@ Fetch the transcript from the following endpoint : https://fullstack-transcript-
 
 **Render the transcript meaningfully:**
 
-Render the transcript with meaningful utterances from the data provided.
+Render the transcript meaningfully from the data provided.
 
 **Create an utterance search based on timestamp:**
 
