@@ -14,6 +14,13 @@ utterance = a word
 For this interview, you'll be building a SPA that displays transcript data fetched from an api endpoint, and allows the user to perform a simple search function on. This can be done on the JS/TS framework of your choice. 
 We've built a template using React and Svelt with tailwind installed to help you get started quickly.
 
+You are also welcome to use a code pen to get started without cloning the repo as well.
+[React JS Codepen](https://reactplayground.vercel.app)
+[Vue Playground](https://play.vuejs.org/)
+[Svelt Playground](https://svelte.dev/playground/hello-world?version=5.25.9)
+
+
+
 Here are the tasks you'll be completing:
 
 **Fetch the transcript information:**
@@ -29,4 +36,6 @@ Render the transcript with meaningful utterances from the data provided.
 
 On the top of the screen, render a text box.
 This text box should accept integers.
-When an integer is typed, the utterance of the transcript that contains that timestamp should be highlighted.
+When an integer is typed, the utterance of the transcript that contains that timestamp should be highlighted yellow.
+
+When highlighting the utternace, use startTimeInMillis inclusive, endTimeinMillis exclusive to the timestamp input.
