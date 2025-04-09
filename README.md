@@ -40,5 +40,6 @@ When an integer is typed, the utterance of the transcript that contains that tim
 
 When highlighting the utternace, use startTimeInMillis inclusive, endTimeinMillis exclusive to the timestamp input.
 
-Example:
+Example of an acceptable response:
+
 <img width="562" alt="Screenshot 2025-04-09 at 1 40 54 PM" src="https://github.com/user-attachments/assets/08de2c9f-8c07-4ca6-b6b9-a69daedcf3be" />
