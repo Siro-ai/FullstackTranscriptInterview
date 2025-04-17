@@ -23,20 +23,20 @@ You are also welcome to use a code pen to get started without cloning the repo a
 
 Here are the tasks you'll be completing:
 
-**Fetch the transcript information:**
+**1. Fetch the transcript information:**
 
 Fetch the transcript from the following endpoint : https://fullstack-transcript-interview-api-26940969056.us-central1.run.app
 
 
-**Render the transcript meaningfully:**
+**2. Render the transcript meaningfully:**
 
-Render the transcript meaningfully from the data provided.
+Render the transcript in a readable way from the data provided.
 
-**Create an utterance search based on timestamp:**
+**3. Create an utterance search based on timestamp:**
 
 On the top of the screen, render a text box.
-This text box should accept integers.
-When an integer is typed, the utterance of the transcript that contains that timestamp should be highlighted yellow.
+This text box should accept a timestamp in milliseconds as an integer.
+When an integer is typed, the utterance of the transcript that overlaps with the timestamp should be highlighted yellow.
 
 When highlighting the utternace, use startTimeInMillis inclusive, endTimeinMillis exclusive to the timestamp input.
 
