@@ -31,6 +31,7 @@ Fetch the transcript from the following endpoint : https://fullstack-transcript-
 **2. Render the transcript meaningfully:**
 
 Render the transcript in a readable way from the data provided.
+No need to worry too much about styling - as long as the transcript is readable that is what we're looking for.
 
 **3. Create an utterance search based on timestamp:**
 
