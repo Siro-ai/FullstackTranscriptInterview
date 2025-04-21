@@ -9,6 +9,9 @@ transcript = the transcribed audio recording
 
 utterance = a word
 
+## Housekeeping 
+Feel welcome to look things up when you need to. Please ensure anything you look up is shared on your screen.
+
 ### Instructions
 
 For this interview, you'll be building a SPA that displays transcript data fetched from an api endpoint, and allows the user to perform a simple search function on. This can be done on the JS/TS framework of your choice. 
