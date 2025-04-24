@@ -7,14 +7,14 @@ We want to render a transcript to the screen and perform a simple search functio
 ### Quick Jargon
 transcript = the transcribed audio recording
 
-utterance = a word
+utterance = a word + punctuation
 
 ## Housekeeping 
 Feel welcome to look things up when you need to. Please ensure anything you look up is shared on your screen.
 
 ### Instructions
 
-For this interview, you'll be building a SPA that displays transcript data fetched from an api endpoint, and allows the user to perform a simple search function on. This can be done on the JS/TS framework of your choice. 
+For this interview, you'll be building a S.P.A. that displays transcript data fetched from an api endpoint, and allows the user to perform a simple search function on. This can be done on the JS/TS framework of your choice. 
 We've built a template using React and Svelt with tailwind installed to help you get started quickly.
 
 You are also welcome to use a code pen to get started without cloning the repo as well.
