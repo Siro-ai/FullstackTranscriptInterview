@@ -38,8 +38,8 @@ No need to worry too much about styling - as long as the transcript is readable 
 
 **3. Create an utterance search based on timestamp:**
 
-On the top of the screen, render a text box.
-This text box should accept a timestamp in milliseconds as an integer.
+On the top of the screen, render an input box.
+This input box should accept a timestamp in milliseconds as an integer.
 When an integer is typed, the utterance of the transcript that overlaps with the timestamp should be highlighted yellow.
 
 When highlighting the utternace, use startTimeInMillis inclusive, endTimeinMillis exclusive to the timestamp input.
