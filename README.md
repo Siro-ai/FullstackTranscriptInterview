@@ -14,7 +14,7 @@ Feel welcome to look things up when you need to. Please ensure anything you look
 
 ### Instructions
 
-For this interview, you'll be building a S.P.A. that displays transcript data fetched from an api endpoint, and allows the user to perform a simple search function on. This can be done on the JS/TS framework of your choice. 
+For this interview, you'll be building a S.P.A. that displays transcript data fetched from an api endpoint, and allows the user to perform a simple search function. This can be done on the JS/TS framework of your choice. 
 We've built a template using React and Svelt with tailwind installed to help you get started quickly.
 
 You are also welcome to use a code pen to get started without cloning the repo as well.
