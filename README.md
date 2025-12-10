@@ -11,16 +11,17 @@ utterance = a word + punctuation
 
 ## Housekeeping 
 Feel welcome to look things up when you need to. Please ensure anything you look up is shared on your screen.
+You may use AI autocomplete or suggestion features in your IDE, but please don't use AI prompts to generate code. If you do incorporate any AI-generated code, please describe what it does.
 
 ### Instructions
 
 For this interview, you'll be building a S.P.A. that displays transcript data fetched from an api endpoint, and allows the user to perform a simple search function. This can be done on the JS/TS framework of your choice. 
-We've built a template using React and Svelt with tailwind installed to help you get started quickly.
+Please feel free to clone this repo to complete this locally. We've also built a template using React, Svelte, and Vue.
 
 You are also welcome to use a code pen to get started without cloning the repo as well.
-[React JS Codepen](https://reactplayground.vercel.app)
-[Vue Playground](https://play.vuejs.org/)
-[Svelt Playground](https://svelte.dev/playground/hello-world?version=5.25.9)
+[React](https://stackblitz.com/edit/siro-react-interview?file=src/App.tsx)
+[Svelte](https://stackblitz.com/edit/siro-svelt-interview?file=src/App.svelte)
+[Vue](https://stackblitz.com/edit/siro-vue-interview?file=src/App.vue)
 
 
 
@@ -42,7 +43,7 @@ On the top of the screen, render an input box.
 This input box should accept a timestamp in milliseconds as an integer.
 When an integer is typed, the utterance of the transcript that overlaps with the timestamp should be highlighted yellow.
 
-When highlighting the utternace, use startTimeInMillis inclusive, endTimeinMillis exclusive to the timestamp input.
+When highlighting the utterance, use startTimeInMillis inclusive, endTimeinMillis exclusive to the timestamp input.
 
 Example of an acceptable response:
 
