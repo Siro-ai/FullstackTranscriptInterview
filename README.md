@@ -1,21 +1,23 @@
 # FullstackTranscriptInterview
 
-### Preface
+## Preface
+
 Welcome! We're working on empowering sales reps and need your help.
 We want to render a transcript to the screen and perform a simple search function on it.
 
-### Quick Jargon
-transcript = the transcribed audio recording
+## Housekeeping
 
-utterance = a word + punctuation
-
-## Housekeeping 
 Feel welcome to look things up when you need to. Please ensure anything you look up is shared on your screen.
-You may use AI autocomplete or suggestion features in your IDE, but please don't use AI prompts to generate code. If you do incorporate any AI-generated code, please describe what it does.
 
-### Instructions
+### AI Usage
 
-For this interview, you'll be building a S.P.A. that displays transcript data fetched from an api endpoint, and allows the user to perform a simple search function. This can be done on the JS/TS framework of your choice. 
+Please **do not use AI** during the interview and **Disable AI autocomplete on your machine** before starting.
+
+If you're using **Cursor**, you can disable AI suggestions by opening the command palette (**Cmd+Shift+P**) → searchiing for **"Cursor Tab"** → choosing **Disable Cursor Tab**
+
+## Instructions
+
+For this interview, you'll be building a S.P.A. that displays transcript data fetched from an api endpoint, and allows the user to perform a simple search function. This can be done on the JS/TS framework of your choice.
 Please feel free to clone this repo to complete this locally. We've also built a template using React, Svelte, and Vue.
 
 You are also welcome to use a code pen to get started without cloning the repo as well.
@@ -23,14 +25,17 @@ You are also welcome to use a code pen to get started without cloning the repo a
 [Svelte](https://stackblitz.com/edit/siro-svelt-interview?file=src/App.svelte)
 [Vue](https://stackblitz.com/edit/siro-vue-interview?file=src/App.vue)
 
+### Quick Jargon
 
+transcript = the transcribed audio recording
 
-Here are the tasks you'll be completing:
+utterance = a word + punctuation
+
+### Tasks to Complete
 
 **1. Fetch the transcript information:**
 
 Fetch the transcript from the following endpoint : https://fullstack-transcript-interview-api-26940969056.us-central1.run.app
-
 
 **2. Render the transcript meaningfully:**
 
